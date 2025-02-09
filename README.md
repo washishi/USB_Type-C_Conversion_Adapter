@@ -7,7 +7,7 @@
 
  [ｽﾀｯｸﾁｬﾝ](https://protopedia.net/prototype/2345)にM5Stackの[Module LLM](https://docs.m5stack.com/ja/module/Module-LLM)を取り付けてWi-Fiアダプタを付けた例・・・  
  というかこれのために作りましたw  
-<img src="./docs/images/stack-chan_front.png" width="300px" height="280px">
+<img src="./docs/images/stack-chan_Front.png" width="300px" height="280px">
 <img src="./docs/images/stack-chan_side.png" width="300px" height="280px">
 <img src="./docs/images/stack-chan_bottom.png" width="300px" height="280px">
 <img src="./docs/images/stack-chan_top.png" width="300px" height="280px">  
